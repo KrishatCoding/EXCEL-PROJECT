@@ -1,0 +1,121 @@
+Customer_ID,Customer_Name,Gender,Age,Email,Address,City,Loyalty_Level
+CUST001,Kabir Singh,Male,35,kabir.singh1@example.com,"135 Station Road, Colony",Kolkata,Bronze
+CUST002,Anil Iyer,Male,45,anil.iyer2@example.com,"26 MG Road, Area",Pune,Silver
+CUST003,Pooja Sharma,Male,63,pooja.sharma3@example.com,"342 Block, Layout",Jaipur,Silver
+CUST004,Sahil Sharma,Female,28,sahil.sharma4@example.com,"367 Park Lane, Phase",Lucknow,Silver
+CUST005,Nisha Joshi,Male,42,nisha.joshi5@example.com,"59 Main St, Phase",Aurangabad,Silver
+CUST006,Vivaan Bhandari,Male,42,vivaan.bhandari6@example.com,"50 Sector, Phase",Aurangabad,Bronze
+CUST007,Sana Desai,Male,22,sana.desai7@example.com,"33 Block, Colony",Ahmedabad,Bronze
+CUST008,Vikram Reddy,Female,42,vikram.reddy8@example.com,"152 Park Lane, Phase",Hyderabad,Silver
+CUST009,Krish Nair,Female,61,krish.nair9@example.com,"341 MG Road, Colony",Patna,Bronze
+CUST010,Ishaan Bhandari,Male,58,ishaan.bhandari10@example.com,"362 Sector, Colony",Surat,Bronze
+CUST011,Nisha Verma,Male,20,nisha.verma11@example.com,"422 Main St, Layout",Lucknow,Gold
+CUST012,Ritu Desai,Female,38,ritu.desai12@example.com,"118 Block, Layout",Nagpur,Bronze
+CUST013,Kabir Bhandari,Male,26,kabir.bhandari13@example.com,"136 Block, Phase",Bhubaneswar,Silver
+CUST014,Meera Thomas,Male,26,meera.thomas14@example.com,"270 Park Lane, Area",Mumbai,Bronze
+CUST015,Arjun Kumar,Female,45,arjun.kumar15@example.com,"315 MG Road, Layout",Nagpur,Bronze
+CUST016,Kavya Malhotra,Male,53,kavya.malhotra16@example.com,"450 MG Road, Area",Patna,Bronze
+CUST017,Nisha Joshi,Male,45,nisha.joshi17@example.com,"90 Park Lane, Area",Lucknow,Bronze
+CUST018,Nisha Kumar,Male,24,nisha.kumar18@example.com,"455 Block, Phase",Coimbatore,Bronze
+CUST019,Arjun Chopra,Female,52,arjun.chopra19@example.com,"498 Sector, Area",Aurangabad,Silver
+CUST020,Aarav Singh,Female,69,aarav.singh20@example.com,"167 Station Road, Area",Jaipur,Bronze
+CUST021,Aditya Gupta,Female,70,aditya.gupta21@example.com,"45 Sector, Colony",Chennai,Bronze
+CUST022,Sara Kumar,Male,56,sara.kumar22@example.com,"226 Station Road, Colony",Ahmedabad,Silver
+CUST023,Armaan Chopra,Male,51,armaan.chopra23@example.com,"241 MG Road, Colony",Jaipur,Gold
+CUST024,Aarav Desai,Male,55,aarav.desai24@example.com,"122 MG Road, Area",Mumbai,Silver
+CUST025,Anil Verma,Female,22,anil.verma25@example.com,"273 Station Road, Phase",Visakhapatnam,Silver
+CUST026,Arjun Desai,Male,33,arjun.desai26@example.com,"411 Park Lane, Layout",Pune,Gold
+CUST027,Armaan Kapoor,Male,44,armaan.kapoor27@example.com,"249 Block, Area",Kolkata,Gold
+CUST028,Manan Joshi,Female,24,manan.joshi28@example.com,"137 Station Road, Colony",Patna,Silver
+CUST029,Priya Kumar,Male,33,priya.kumar29@example.com,"457 MG Road, Layout",Patna,Gold
+CUST030,Kabir Iyer,Female,23,kabir.iyer30@example.com,"484 Station Road, Colony",Indore,Silver
+CUST031,Krish Thomas,Female,28,krish.thomas31@example.com,"204 MG Road, Layout",Lucknow,Bronze
+CUST032,Ritika Bhandari,Male,62,ritika.bhandari32@example.com,"384 Sector, Layout",Chennai,Silver
+CUST033,Krish Verma,Male,52,krish.verma33@example.com,"41 Block, Phase",Mumbai,Gold
+CUST034,Neha Malhotra,Female,51,neha.malhotra34@example.com,"90 MG Road, Area",Hyderabad,Gold
+CUST035,Aditya Reddy,Male,54,aditya.reddy35@example.com,"136 Sector, Area",Aurangabad,Gold
+CUST036,Armaan Desai,Male,38,armaan.desai36@example.com,"488 Main St, Colony",Surat,Silver
+CUST037,Ananya Patel,Female,37,ananya.patel37@example.com,"244 Main St, Area",New Delhi,Silver
+CUST038,Meera Singh,Male,31,meera.singh38@example.com,"269 Main St, Colony",Bhopal,Bronze
+CUST039,Anil Reddy,Male,28,anil.reddy39@example.com,"234 Sector, Phase",Aurangabad,Bronze
+CUST040,Ritika Malhotra,Male,70,ritika.malhotra40@example.com,"293 Main St, Area",Chennai,Silver
+CUST041,Anil Singh,Female,27,anil.singh41@example.com,"149 Main St, Colony",Surat,Silver
+CUST042,Kabir Nair,Male,34,kabir.nair42@example.com,"473 MG Road, Area",Indore,Bronze
+CUST043,Vivaan Sharma,Male,26,vivaan.sharma43@example.com,"336 Main St, Colony",Thiruvananthapuram,Bronze
+CUST044,Priya Iyer,Male,22,priya.iyer44@example.com,"493 Block, Colony",Patna,Gold
+CUST045,Sana Desai,Male,45,sana.desai45@example.com,"75 MG Road, Phase",Bhopal,Bronze
+CUST046,Ritika Verma,Female,31,ritika.verma46@example.com,"359 Station Road, Area",Bhopal,Bronze
+CUST047,Anil Kapoor,Female,65,anil.kapoor47@example.com,"89 Station Road, Colony",Hyderabad,Bronze
+CUST048,Aarav Kumar,Female,39,aarav.kumar48@example.com,"410 Park Lane, Colony",Lucknow,Silver
+CUST049,Yash Singh,Male,20,yash.singh49@example.com,"449 Park Lane, Colony",Pune,Bronze
+CUST050,Kavya Chopra,Male,68,kavya.chopra50@example.com,"456 Station Road, Colony",New Delhi,Bronze
+CUST051,Ananya Joshi,Male,22,ananya.joshi51@example.com,"405 Main St, Phase",Coimbatore,Silver
+CUST052,Deepak Iyer,Male,19,deepak.iyer52@example.com,"69 Main St, Colony",Bhubaneswar,Bronze
+CUST053,Sahil Verma,Male,45,sahil.verma53@example.com,"186 Block, Phase",Indore,Bronze
+CUST054,Ira Singh,Male,54,ira.singh54@example.com,"107 Main St, Area",Indore,Gold
+CUST055,Ritu Iyer,Female,65,ritu.iyer55@example.com,"387 Block, Colony",Bhopal,Silver
+CUST056,Armaan Joshi,Female,60,armaan.joshi56@example.com,"444 MG Road, Phase",Coimbatore,Silver
+CUST057,Priya Joshi,Male,36,priya.joshi57@example.com,"293 Station Road, Colony",Indore,Bronze
+CUST058,Ananya Kumar,Female,37,ananya.kumar58@example.com,"217 Sector, Area",Ahmedabad,Silver
+CUST059,Priya Desai,Female,38,priya.desai59@example.com,"248 Park Lane, Layout",Pune,Bronze
+CUST060,Ritika Kumar,Female,36,ritika.kumar60@example.com,"273 Block, Phase",Bengaluru,Bronze
+CUST061,Nisha Reddy,Female,32,nisha.reddy61@example.com,"422 Station Road, Colony",New Delhi,Gold
+CUST062,Neha Jain,Female,22,neha.jain62@example.com,"243 Park Lane, Colony",Nagpur,Silver
+CUST063,Rahul Patel,Female,18,rahul.patel63@example.com,"467 MG Road, Layout",Jaipur,Silver
+CUST064,Yash Malhotra,Male,53,yash.malhotra64@example.com,"137 MG Road, Layout",Chennai,Bronze
+CUST065,Armaan Malhotra,Other,56,armaan.malhotra65@example.com,"172 Park Lane, Layout",Patna,Silver
+CUST066,Ishaan Saxena,Male,66,ishaan.saxena66@example.com,"136 Block, Phase",Coimbatore,Silver
+CUST067,Rahul Nair,Male,63,rahul.nair67@example.com,"156 Station Road, Phase",Surat,Silver
+CUST068,Sara Gupta,Male,32,sara.gupta68@example.com,"206 Block, Colony",Pune,Gold
+CUST069,Priya Joshi,Male,44,priya.joshi69@example.com,"41 Station Road, Layout",Nagpur,Bronze
+CUST070,Meera Sharma,Female,66,meera.sharma70@example.com,"304 Park Lane, Layout",New Delhi,Bronze
+CUST071,Rohan Thomas,Female,44,rohan.thomas71@example.com,"285 Block, Colony",Visakhapatnam,Silver
+CUST072,Priya Saxena,Male,39,priya.saxena72@example.com,"352 Block, Layout",Hyderabad,Bronze
+CUST073,Ritu Patel,Other,52,ritu.patel73@example.com,"23 Park Lane, Area",Bengaluru,Bronze
+CUST074,Arjun Bhandari,Male,34,arjun.bhandari74@example.com,"204 Main St, Colony",Thiruvananthapuram,Silver
+CUST075,Nisha Thomas,Male,44,nisha.thomas75@example.com,"139 MG Road, Layout",New Delhi,Bronze
+CUST076,Vivaan Chopra,Male,22,vivaan.chopra76@example.com,"409 Block, Area",New Delhi,Bronze
+CUST077,Krish Sharma,Female,33,krish.sharma77@example.com,"74 Park Lane, Area",Bhubaneswar,Bronze
+CUST078,Kavya Nair,Female,28,kavya.nair78@example.com,"320 Sector, Area",Hyderabad,Bronze
+CUST079,Vihaan Desai,Male,37,vihaan.desai79@example.com,"304 Block, Layout",Nagpur,Bronze
+CUST080,Krish Gupta,Male,58,krish.gupta80@example.com,"134 MG Road, Phase",Aurangabad,Bronze
+CUST081,Ritika Desai,Female,40,ritika.desai81@example.com,"282 Park Lane, Phase",Bengaluru,Bronze
+CUST082,Aisha Sharma,Female,70,aisha.sharma82@example.com,"260 MG Road, Layout",Bhopal,Bronze
+CUST083,Deepak Bhandari,Female,45,deepak.bhandari83@example.com,"100 Block, Phase",Aurangabad,Bronze
+CUST084,Sara Saxena,Male,70,sara.saxena84@example.com,"384 Sector, Phase",Surat,Bronze
+CUST085,Deepak Gupta,Male,46,deepak.gupta85@example.com,"134 Park Lane, Layout",Surat,Gold
+CUST086,Vikram Joshi,Male,31,vikram.joshi86@example.com,"191 Main St, Phase",Lucknow,Bronze
+CUST087,Yash Nair,Male,51,yash.nair87@example.com,"495 Station Road, Area",Jaipur,Bronze
+CUST088,Neha Iyer,Female,62,neha.iyer88@example.com,"253 Block, Layout",Thiruvananthapuram,Bronze
+CUST089,Aditya Mehta,Male,62,aditya.mehta89@example.com,"134 Main St, Phase",Visakhapatnam,Bronze
+CUST090,Sana Kapoor,Other,53,sana.kapoor90@example.com,"179 Main St, Layout",Lucknow,Silver
+CUST091,Rahul Singh,Female,38,rahul.singh91@example.com,"71 Block, Colony",Pune,Silver
+CUST092,Neha Nair,Female,66,neha.nair92@example.com,"278 Sector, Phase",Kolkata,Bronze
+CUST093,Rohan Reddy,Male,37,rohan.reddy93@example.com,"17 Block, Colony",Lucknow,Gold
+CUST094,Vivaan Iyer,Male,26,vivaan.iyer94@example.com,"336 Park Lane, Area",New Delhi,Bronze
+CUST095,Neha Saxena,Male,29,neha.saxena95@example.com,"36 Main St, Layout",Kolkata,Bronze
+CUST096,Ananya Saxena,Male,58,ananya.saxena96@example.com,"361 MG Road, Colony",Chennai,Bronze
+CUST097,Rohan Gupta,Other,25,rohan.gupta97@example.com,"295 Park Lane, Colony",Coimbatore,Silver
+CUST098,Ritu Bhandari,Male,55,ritu.bhandari98@example.com,"229 Main St, Area",Aurangabad,Bronze
+CUST099,Vihaan Kaur,Female,34,vihaan.kaur99@example.com,"348 MG Road, Colony",Jaipur,Silver
+CUST100,Aditya Kumar,Male,46,aditya.kumar100@example.com,"362 Sector, Layout",Ahmedabad,Gold
+CUST101,Rohan Mehta,Female,47,rohan.mehta101@example.com,"46 Block, Colony",Lucknow,Bronze
+CUST102,Kabir Desai,Female,30,kabir.desai102@example.com,"227 MG Road, Colony",Chennai,Bronze
+CUST103,Deepak Patel,Male,28,deepak.patel103@example.com,"415 Main St, Phase",Thiruvananthapuram,Gold
+CUST104,Yash Mehta,Female,35,yash.mehta104@example.com,"266 Sector, Layout",Thiruvananthapuram,Gold
+CUST105,Vivaan Kapoor,Female,56,vivaan.kapoor105@example.com,"138 MG Road, Area",Jaipur,Bronze
+CUST106,Deepak Desai,Male,19,deepak.desai106@example.com,"401 Block, Phase",Bhubaneswar,Gold
+CUST107,Nisha Kumar,Male,59,nisha.kumar107@example.com,"236 Main St, Colony",Bhubaneswar,Silver
+CUST108,Deepak Saxena,Female,48,deepak.saxena108@example.com,"188 Park Lane, Phase",Surat,Bronze
+CUST109,Vikram Kumar,Male,62,vikram.kumar109@example.com,"263 Main St, Layout",Patna,Gold
+CUST110,Aditya Joshi,Male,25,aditya.joshi110@example.com,"405 Park Lane, Area",Patna,Silver
+CUST111,Vivaan Kaur,Male,57,vivaan.kaur111@example.com,"397 Park Lane, Layout",Mumbai,Silver
+CUST112,Sara Patel,Female,46,sara.patel112@example.com,"460 Block, Layout",Kolkata,Gold
+CUST113,Kabir Jain,Female,63,kabir.jain113@example.com,"91 Main St, Area",Patna,Silver
+CUST114,Rahul Singh,Male,25,rahul.singh114@example.com,"341 Station Road, Layout",Ahmedabad,Bronze
+CUST115,Sahil Kapoor,Female,48,sahil.kapoor115@example.com,"134 Park Lane, Colony",Nagpur,Silver
+CUST116,Pooja Malhotra,Female,26,pooja.malhotra116@example.com,"452 MG Road, Phase",Indore,Silver
+CUST117,Ritika Malhotra,Male,18,ritika.malhotra117@example.com,"154 Block, Phase",Bhubaneswar,Bronze
+CUST118,Armaan Saxena,Female,46,armaan.saxena118@example.com,"285 Park Lane, Phase",Surat,Bronze
+CUST119,Sara Thomas,Male,38,sara.thomas119@example.com,"455 Station Road, Colony",Bhubaneswar,Silver
+CUST120,Vikram Kapoor,Male,65,vikram.kapoor120@example.com,"252 Block, Layout",Nagpur,Bronze

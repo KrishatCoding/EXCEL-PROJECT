@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Supplier,Unit_Cost,Unit_Price,Stock
+PROD001,AlphaPhone X1,Mobile,Gadgetify,350.77,411.83,534
+PROD002,AlphaPhone X2,Tablet,PrimeElectro,237.74,288.91,885
+PROD003,TabPro 10,Tablet,TechSource,77,134.12,35
+PROD004,TabPro 8,Tablet,Gadgetify,291.71,459.62,178
+PROD005,NoteLite 5,Mobile,ElectroCorp,332.89,592.54,366
+PROD006,SmartWatch Z,Wearable,PrimeElectro,487.35,766.31,892
+PROD007,FitBand Pro,Wearable,MobileHub,597.82,1021.42,409
+PROD008,EarBuds True,Accessory,MobileHub,441.75,762.83,519
+PROD009,PowerBank 20K,Accessory,PrimeElectro,32.84,39.23,666
+PROD010,Charger Fast 30W,Accessory,MobileHub,698.22,1141.87,464
+PROD011,Laptop Lite 14,Laptop,ElectroCorp,534.18,858.71,122
+PROD012,Laptop Pro 15,Laptop,TechSource,123.12,165.55,49
+PROD013,CameraZoom 12,Camera,ElectroCorp,232.47,275.82,387
+PROD014,ActionCam S,Camera,MobileHub,306.04,400.52,441
+PROD015,DroneFly 4K,Drone,PrimeElectro,479.81,607.94,199
